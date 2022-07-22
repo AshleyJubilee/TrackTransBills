@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "all": "^0.0.0",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "google-spreadsheet": "^3.3.0",
+    "process": "^0.11.10",
+    "require": "^0.4.4",
+    "twitter-api-v2": "^1.12.3"
+  }
+}
